@@ -18,7 +18,7 @@ Her şey yolunda gittiyse ikili dosya almalısınız.VAC-Bypass-Loader.exe
 Çalışıyorsa Steam istemcisini kapatın.
 Yönetici olarak çalıştırın. Steam otomatik olarak açılacaktır.VAC-Bypass-Loader.exe
 
-# ilham alarak yaptığım projeler
+# ilham alarak yaptığım kişi
 
 # [danielkrupinski](https://github.com/danielkrupinski)
 
